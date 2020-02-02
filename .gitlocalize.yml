@@ -1,0 +1,7 @@
+synchronize:
+  paths:
+  - source: .
+    exclude:
+    - "overscroll-behavior2.md"
+
+
