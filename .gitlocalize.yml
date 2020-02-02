@@ -2,6 +2,6 @@ synchronize:
   paths:
   - source: .
     exclude:
-    - "readme.md"
+    - "/locale/en/readme.md"
 
 
