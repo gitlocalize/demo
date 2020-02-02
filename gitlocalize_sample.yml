@@ -1,0 +1,19 @@
+synchronize:
+  paths:
+  - source: .
+    exclude:
+    - "overscroll-behavior2.md"
+
+pretranslate:
+  segments:
+    ignore_patterns:
+    - "{# wf_(?!featured_snippet).*#}"
+    - "^(Note|Caution|Warning|Success|Key Point|Key Term|Objective|Dogfood): "
+    - "{:.*}"
+    - "{%.*%}"
+  paths:
+  - source: .
+    include:
+    - "overscroll-behavior1.md"
+
+      
