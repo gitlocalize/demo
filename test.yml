@@ -1,0 +1,16 @@
+learn_css:
+  title: Learn CSS!
+  description: "Let’s gleefully breakdown complex aspects of CSS into digestible episodes covering everything from accessibility to z-index."
+learn_forms:
+  title: Learn Forms!
+  description: "[TODO]: ..."
+gui-challenges:
+  title: GUI Challenges
+  description: | 
+      There is no one way to solve interfaces challenges. 
+      In this series, we'll be challenging ourselves and each other 
+      to find multiple ways to solve interface challenges 
+      and expand the diversity of our skills.
+designing-in-the-browser:
+  title: 'Designing in the Browser'
+  description: 'Designing in the Browser explores the intersection of design and front-end development, teaching you how to build beautiful UIs with modern web standards in mind.'
